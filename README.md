@@ -1,6 +1,7 @@
 # bookmark
 Market Cap:
 * http://coinmarketcap.com/assets/synereo/
+* https://www.cryptocompare.com/coins/amp/overview
 
 Exchange:
 * https://poloniex.com/exchange#btc_amp
