@@ -1,9 +1,19 @@
 # bookmark
-Market Cap:
+
+Synereo
+* Main: www.synereo.com
+* Slack: http://synereonet.slack.com
+* Facebook: https://www.facebook.com/synereo
+* Blog: http://blog.synereo.com
+* Twitter: https://twitter.com/Synereo
+* White: Paper: http://www.synereo.com/whitepapers/synereo.pdf
+
+Market Cap (AMP):
 * http://coinmarketcap.com/assets/synereo/
 * https://www.cryptocompare.com/coins/amp/overview
+* https://www.coingecko.com/en/coins/synereo
 
-Exchange:
+Exchange (AMP):
 * https://poloniex.com/exchange#btc_amp
 * https://bittrex.com/Market/Index?MarketName=BTC-AMP
 
@@ -20,3 +30,8 @@ Localhost:
 * http://localhost:9000/
 * http://localhost:9876/agentui/agentui.html?demo=false
 * http://192.168.99.100:8888/agentui/agentui.html?demo=false
+
+<!----
+Minds: https://www.minds.com/synereo
+Calendar: https://goo.gl/DdGpZm
+---->
