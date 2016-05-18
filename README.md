@@ -22,6 +22,7 @@ Other:
 * http://52.26.206.1 9:9876/agentui/agentui.html?demo=false
 * http://52.36.125.7 3:9876/agentui/agentui.html?demo=false
 * http://52.36.125.7 3:8080/
+* http://52.34.180.28:9000/ (new UI)
 
 * https://zoom.us/j/2522161381 - Christian 
 
