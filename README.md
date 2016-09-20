@@ -18,6 +18,7 @@ Exchange (AMP):
 * https://bittrex.com/Market/Index?MarketName=BTC-AMP
 
 Other: 
+* [Category Theory](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * http://52.34.180.2 8:9876/agentui/agentui.html?demo=false
 * http://52.26.206.1 9:9876/agentui/agentui.html?demo=false
 * http://52.36.125.7 3:9876/agentui/agentui.html?demo=false
