@@ -7,6 +7,9 @@ Synereo
 * Blog: http://blog.synereo.com
 * Twitter: https://twitter.com/Synereo
 * White: Paper: http://www.synereo.com/whitepapers/synereo.pdf
+* https://52.25.187.160/
+* https://52.38.13.42/
+* https://52.39.241.213/
 
 Market Cap (AMP):
 * http://coinmarketcap.com/assets/synereo/
