@@ -40,3 +40,5 @@ Localhost:
 Minds: https://www.minds.com/synereo
 Calendar: https://goo.gl/DdGpZm
 ---->
+Others: 
+* GLoseVal VDI: https://www.dropbox.com/sh/99a3mypjc1ed8dz/AABKs4mzvO7-n-ZDwdlQa4kEa/GLoSEvalOne.vdi?dl=0
