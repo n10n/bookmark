@@ -46,3 +46,11 @@ Calendar: https://goo.gl/DdGpZm
 ---->
 Others: 
 * GLoseVal VDI: https://www.dropbox.com/sh/99a3mypjc1ed8dz/AABKs4mzvO7-n-ZDwdlQa4kEa/GLoSEvalOne.vdi?dl=0
+
+
+{::nomarkdown}
+
+https://github.com/rchain/board/blob/master/BoardResolutionSummary.html
+
+{:/}
+
